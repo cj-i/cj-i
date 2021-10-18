@@ -6,7 +6,6 @@
 <!-- <h3 align="center">Coding Languages</h3> -->
 
 <br>
-<br>
 <h2 align="center">What I recently listened to on Spotify</h2>
 <br>
 
