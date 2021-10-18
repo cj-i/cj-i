@@ -1,30 +1,9 @@
 {
-  "ignored_packages":
-  [
-    "Vintage",
-  ],
-  "auto_complete_triggers":
-  [
-    {
-      "characters": ".(){}[],'\"=<>/\\+-|&*%=$#@! ",
-      "selector": "source.python",
-    },
-    {
-      "characters": ":.(){}[],'\"=<>/\\+-|&*%=$#@! ",
-      "selector": "source & - source.python - constant.numeric",
-    },
-    {
-      "characters": " qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
-      "selector": "text",
-    }
-  ],
-  "theme": "Default Dark.sublime-theme",
-  "color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
   "atomic_save": true,
   "auto_complete": true,
   "draw_white_space": "all",
   "margin": 1,
   "tab_size": 2,
   "save_on_focus_lost": true,
-  "translate_tabs_to_spaces": true,
+  "translate_tabs_to_spaces": true
 }
