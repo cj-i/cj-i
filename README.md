@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/letAbitLoose/letAbitLoose/blob/main/gifs/earth.gif" width="80" height="80" />
 
 <br>
-<h2 align="center">What I recently listened to on Spotify 👇</h2>
+<h1 align="center">What I recently listened to on Spotify 👇</h1>
 <br>
 
 <div align="center">
